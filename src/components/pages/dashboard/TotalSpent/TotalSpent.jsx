@@ -10,7 +10,7 @@ import {
   Line,
   Tooltip,
 } from "recharts";
-import { TOTAL_SPENT_DATA } from "../../../../data/mockData";
+import { TOTAL_SPENT_DATA } from "../../../../data/mockdata";
 import { theme } from "../../../../styles/theme/theme";
 import PropTypes from "prop-types";
 
