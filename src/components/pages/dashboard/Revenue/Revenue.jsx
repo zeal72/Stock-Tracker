@@ -9,7 +9,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { WEEKLY_REVENUE_DATA } from "../../../../data/mockData";
+import { WEEKLY_REVENUE_DATA } from "../../../../data/mockdata"
 import { theme } from "../../../../styles/theme/theme";
 
 const formatYAxisLabel = (value) => {

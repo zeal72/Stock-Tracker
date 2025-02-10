@@ -26,6 +26,7 @@ const Sidebar = () => {
               <Link className="sidenav-link">
                 <span className="link-icon"><MdHome size={24} /></span>
                 <span className="link-text">Dashboard</span>
+
               </Link>
             </li>
             <li className="sidenav-item">
